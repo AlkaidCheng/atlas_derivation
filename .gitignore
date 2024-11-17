@@ -1,0 +1,13 @@
+build/
+dist/
+*.egg-info
+__pycache__
+.__*
+*_cxx.d
+*_cxx.so
+*_cxx_ACLiC*
+.ipynb_checkpoints
+deprecated
+create.sh
+tips.txt
+private_notebooks
