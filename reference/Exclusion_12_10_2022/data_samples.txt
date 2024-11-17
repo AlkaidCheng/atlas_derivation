@@ -1,0 +1,8 @@
+data15_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4839*
+data15_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4869*
+data16_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4839*
+data16_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4869*
+data17_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4839*
+data17_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4869*
+data18_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4839*
+data18_13TeV.*.physics_Main.deriv.DAOD_HIGG1D1.*p4869*
