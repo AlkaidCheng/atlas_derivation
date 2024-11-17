@@ -1,0 +1,260 @@
+# ==============================================================================
+# Signal samples
+# ==============================================================================
+
+# Zgamma signal samples 125
+# ------------------------------------------------------------------------------
+PowhegPy8_NNLOPS_ggH125_Zllgam *345316.PowhegPythia8EvtGen_NNLOPS_nnlo_30_ggH125_Zy_Zll*
+PowhegPy8_VBF125_Zllgam        *345042.PowhegPythia8EvtGen_NNPDF30_AZNLOCTEQ6L1_VBFH125_Zllgam*
+PowhegPy8_VBF125_Zllgam_new     345833
+PowhegPy8_WmH125_Zllgam        *345320.PowhegPythia8EvtGen_NNPDF30_AZNLO_WmH125J_HZy_Wincl_MINLO*
+PowhegPy8_WpH125_Zllgam        *345321.PowhegPythia8EvtGen_NNPDF30_AZNLO_WpH125J_HZy_Wincl_MINLO*
+PowhegPy8_ZH125_Zllgam         *345322.PowhegPythia8EvtGen_NNPDF30_AZNLO_ZH125J_HZy_Zincl_MINLO*
+aMCnloPy8_bbH125_yb2_Zllgam    343095
+aMCnloPy8_bbH125_ybyt_Zllgam   343106
+PhPy8EG_ttH125_Zllgam          346198
+
+
+# Zgamma signal samples 125 alternatives
+# ------------------------------------------------------------------------------
+
+PowhegH7_NNLOPS_ggH125_Zy_Zll  344878
+PowhegPy8_ggH125_Zllgam_MPIOFF 344303
+
+
+# Zgamma signal samples other masses
+# ------------------------------------------------------------------------------
+
+PowhegPy8_ggH110_Zllgam  342200
+PowhegPy8_ggH120_Zllgam  342202
+PowhegPy8_ggH130_Zllgam  342203
+PowhegPy8_ggH140_Zllgam  342205
+PowhegPy8_ggH200_Zllgam  342208
+PowhegPy8_ggH300_Zllgam  342209
+PowhegPy8_ggH500_Zllgam  342210
+PowhegPy8_ggH1000_Zllgam 342211
+PowhegPy8_ggH1500_Zllgam 343580
+PowhegPy8_ggH2000_Zllgam 344744
+PowhegPy8_ggH2500_Zllgam 344745
+PowhegPy8_ggH3000_Zllgam 344746
+PowhegPy8_ggH3500_Zllgam 344747
+PowhegPy8_ggH4000_Zllgam 344748
+PowhegPy8_ggH4500_Zllgam 344749
+PowhegPy8_ggH5000_Zllgam 344750
+
+PowhegPy8_VBF110_Zllgam  342214
+PowhegPy8_VBF120_Zllgam  342216
+PowhegPy8_VBF130_Zllgam  342217
+PowhegPy8_VBF140_Zllgam  342219
+PowhegPy8_VBF150_Zllgam  342221
+PowhegPy8_VBF200_Zllgam  342222
+PowhegPy8_VBF300_Zllgam  342223
+PowhegPy8_VBF500_Zllgam  342224
+PowhegPy8_VBF1000_Zllgam 342225
+PowhegPy8_VBF2500_Zllgam 345160
+PowhegPy8_VBF5000_Zllgam 344751
+
+Py8_WH100_Zllgam  342226
+Py8_WH110_Zllgam  342228
+Py8_WH120_Zllgam  342230
+Py8_WH130_Zllgam  342231
+Py8_WH140_Zllgam  342233
+Py8_WH150_Zllgam  342235
+Py8_WH200_Zllgam  344752
+Py8_WH1000_Zllgam 344753
+Py8_WH2500_Zllgam 345161
+Py8_WH5000_Zllgam 344754
+
+Py8_ZH100_Zllgam	 342236
+Py8_ZH110_Zllgam	 342238
+Py8_ZH120_Zllgam	 342240
+Py8_ZH130_Zllgam	 342241
+Py8_ZH140_Zllgam	 342243
+Py8_ZH150_Zllgam	 342245
+Py8_ZH200_Zllgam	 344755
+Py8_ZH1000_Zllgam  344756
+Py8_ZH2500_Zllgam  345162
+Py8_ZH5000_Zllgam  344757
+
+MadGraphPy8_qqX2toZy_lly_200_NW   306220
+MadGraphPy8_qqX2toZy_lly_250_NW   306221
+MadGraphPy8_qqX2toZy_lly_300_NW   306222
+MadGraphPy8_qqX2toZy_lly_500_NW   306226
+MadGraphPy8_qqX2toZy_lly_750_NW   306231
+MadGraphPy8_qqX2toZy_lly_1000_NW  306234
+MadGraphPy8_qqX2toZy_lly_1500_NW  306235
+MadGraphPy8_qqX2toZy_lly_2000_NW  306236
+MadGraphPy8_qqX2toZy_lly_2500_NW  306237
+MadGraphPy8_qqX2toZy_lly_3000_NW  306238
+MadGraphPy8_qqX2toZy_lly_3500_NW  306239
+MadGraphPy8_qqX2toZy_lly_4000_NW  306240
+MadGraphPy8_qqX2toZy_lly_4500_NW  306241
+MadGraphPy8_qqX2toZy_lly_5000_NW  306242
+MadGraphPy8_ggX2toZy_lly_200_NW   306262
+MadGraphPy8_ggX2toZy_lly_250_NW   306263
+MadGraphPy8_ggX2toZy_lly_300_NW   306264
+MadGraphPy8_ggX2toZy_lly_500_NW   306268
+MadGraphPy8_ggX2toZy_lly_750_NW   306273
+MadGraphPy8_ggX2toZy_lly_1000_NW  306276
+MadGraphPy8_ggX2toZy_lly_1500_NW  306277
+MadGraphPy8_ggX2toZy_lly_2000_NW  306278
+MadGraphPy8_ggX2toZy_lly_2500_NW  306279
+MadGraphPy8_ggX2toZy_lly_3000_NW  306280
+MadGraphPy8_ggX2toZy_lly_3500_NW  306281
+MadGraphPy8_ggX2toZy_lly_4000_NW  306282
+MadGraphPy8_ggX2toZy_lly_4500_NW  306283
+MadGraphPy8_ggX2toZy_lly_5000_NW  306284
+
+# Other signals
+# ------------------------------------------------------------------------------
+Py8EG_A400_Z_vv_H250_Zy 345065
+Py8EG_A350_Z_vv_H250_Zy 345346
+Py8EG_R420_S160_vv_H250_Zy 345354
+Py8EG_R450_S160_vv_H250_Zy 345350
+
+# H(125)->yy*
+# ------------------------------------------------------------------------------
+PowhegPy8_NNLOPS_ggH125_gamstargam   345961
+PowhegPy8_VBFH125_gamstargam         345962
+PowhegPy8_VBFH125_gamstargam_new     345834
+PowhegPy8_WmH125J_Hgamstargam        345963
+PowhegPy8_WpH125J_Hgamstargam        345964
+PowhegPy8_ZH125J_Hgamstargam         345965
+
+
+# ==============================================================================
+# Background samples
+# ==============================================================================
+
+# Sherpa Zgamma background pt-slices
+# ------------------------------------------------------------------------------
+
+Sherpa_eegammaPt10_35        301535
+Sherpa_eegammaPt35_70        301899
+Sherpa_eegammaPt70_140       301900
+Sherpa_eegammaPt140          301901
+
+Sherpa_mumugammaPt10_35      301536
+Sherpa_mumugammaPt35_70      301902
+Sherpa_mumugammaPt70_140     301903
+Sherpa_mumugammaPt140        301904
+
+Sherpa_tautaugammaPt10_35   304776
+Sherpa_tautaugammaPt35_70   301905
+Sherpa_tautaugammaPt70_140  301906
+Sherpa_tautaugammaPt140     301907
+
+# Sherpa Zgamma background fast m-slices
+# ------------------------------------------------------------------------------
+Sherpa_eegammaM175_250   343834
+Sherpa_eegammaM250_400   343835
+Sherpa_eegammaM400_650   343836
+Sherpa_eegammaM650_1000  343837
+Sherpa_eegammaM1000_1500 343838
+Sherpa_eegammaM1500_2000 343839
+Sherpa_eegammaM2000_2500 343840
+Sherpa_eegammaM2500_3000 343841
+Sherpa_eegammaM3000      343842
+
+Sherpa_mumugammaM1000_1500 343847
+Sherpa_mumugammaM1500_2000 343848
+Sherpa_mumugammaM175_250   343843
+Sherpa_mumugammaM2000_2500 343849
+Sherpa_mumugammaM2500_3000 343850
+Sherpa_mumugammaM250_400   343844
+Sherpa_mumugammaM3000      343851
+Sherpa_mumugammaM400_650   343845
+Sherpa_mumugammaM650_1000  343846
+
+# Vgamma Sherpa 2.2 pt-slices
+# ------------------------------------------------------------------------------
+
+Sherpa2_eegamma_pty_7_15        364500
+Sherpa2_eegamma_pty_15_35       364501
+Sherpa2_eegamma_pty_35_70       364502
+Sherpa2_eegamma_pty_70_140      364503
+Sherpa2_eegamma_pty_140         364504
+
+Sherpa2_mumugamma_pty_7_15      364505
+Sherpa2_mumugamma_pty_15_35     364506
+Sherpa2_mumugamma_pty_35_70     364507
+Sherpa2_mumugamma_pty_70_140    364508
+Sherpa2_mumugamma_pty_140       364509
+
+Sherpa2_tautaugamma_pty_7_15    364510
+Sherpa2_tautaugamma_pty_15_35   364511
+Sherpa2_tautaugamma_pty_35_70   364512
+Sherpa2_tautaugamma_pty_70_140  364513
+Sherpa2_tautaugamma_pty_140     364514
+
+Sherpa2_nunugamma_pty_35_70     364517
+Sherpa2_nunugamma_pty_70_140    364518
+Sherpa2_nunugamma_pty_140       364519
+
+
+Sherpa2_enugamma_pty_7_15       364521
+Sherpa2_enugamma_pty_15_35      364522
+Sherpa2_enugamma_pty_35_70      364523
+Sherpa2_enugamma_pty_70_140     364524
+Sherpa2_enugamma_pty_140        364525
+
+Sherpa2_munugamma_pty_7_15      364526
+Sherpa2_munugamma_pty_15_35     364527
+Sherpa2_munugamma_pty_35_70     364528
+Sherpa2_munugamma_pty_70_140    364529
+Sherpa2_munugamma_pty_140       364530
+
+Sherpa2_taunugamma_pty_7_15     364531
+Sherpa2_taunugamma_pty_15_35    364532
+Sherpa2_taunugamma_pty_35_70    364533
+Sherpa2_taunugamma_pty_70_140   364534
+Sherpa2_taunugamma_pty_140      364535
+
+# Sherpa 222 Zgamma background fast m-slices
+# ------------------------------------------------------------------------------
+
+Sherpa222_eegamma_M_95_110               346196
+Sherpa222_eegamma_M_110_175              345887
+Sherpa222_eegamma_M_175_250		 345888
+Sherpa222_eegamma_M_250_400		 345889
+Sherpa222_eegamma_M_400_1000		 345890
+Sherpa222_eegamma_M_1000_2000		 345891
+Sherpa222_eegamma_M_2000_3000		 345892
+Sherpa222_eegamma_M_3000_E_CMS		 345893
+Sherpa222_mumugamma_M_95_110		 346197
+Sherpa222_mumugamma_M_110_175		 345894
+Sherpa222_mumugamma_M_175_250		 345895
+Sherpa222_mumugamma_M_250_400		 345896
+Sherpa222_mumugamma_M_400_1000		 345897
+Sherpa222_mumugamma_M_1000_2000          345898
+Sherpa222_mumugamma_M_2000_3000          345899
+Sherpa222_mumugamma_M_3000_E_CMS         345900
+
+
+# Zee background
+# ------------------------------------------------------------------------------
+
+PowhegPy8_Zee                            361106
+
+Sherpa_Zee_MAXHTPTV0_70_CVetoBVeto       364114
+Sherpa_Zee_MAXHTPTV0_70_CFilterBVeto     364115
+Sherpa_Zee_MAXHTPTV0_70_BFilter          364116
+
+Sherpa_Zee_MAXHTPTV70_140_CVetoBVeto     364117
+Sherpa_Zee_MAXHTPTV70_140_CFilterBVeto   364118
+Sherpa_Zee_MAXHTPTV70_140_BFilter        364119
+
+Sherpa_Zee_MAXHTPTV140_280_CVetoBVeto    364120
+Sherpa_Zee_MAXHTPTV140_280_CFilterBVeto  364121
+Sherpa_Zee_MAXHTPTV140_280_BFilter       364122
+
+Sherpa_Zee_MAXHTPTV280_500_CVetoBVeto    364123
+Sherpa_Zee_MAXHTPTV280_500_CFilterBVeto  364124
+Sherpa_Zee_MAXHTPTV280_500_BFilter       364125
+
+Sherpa_Zee_MAXHTPTV500_1000              364126
+Sherpa_Zee_MAXHTPTV1000_E_CMS            364127
+
+# y*y  background
+Shepra_ysyLO_ee                          700001
+Shepra_ysyLO_mumu                        700002

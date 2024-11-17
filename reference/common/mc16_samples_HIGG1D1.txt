@@ -1,0 +1,1344 @@
+# ==============================================================================
+# Signal samples
+# ==============================================================================
+
+# H125
+# ------------------------------------------------------------------------------
+
+PowhegPy8_NNLOPS_ggH125     mc16_13TeV.343981.PowhegPythia8EvtGen_NNLOPS_nnlo_30_ggH125_gamgam
+PowhegPy8_NNPDF30_VBFH125   mc16_13TeV.345041.PowhegPythia8EvtGen_NNPDF30_AZNLOCTEQ6L1_VBFH125_gamgam*
+PowhegPy8EG_NNPDF30_VBFH125 346214
+PowhegPy8_WmH125J           345317
+PowhegPy8_WpH125J           345318
+PowhegPy8_ZH125J            345319
+PowhegPy8_ggZH125           345061
+PowhegPy8_ttH125            345863
+PowhegPy8_ttH125_fixweight  346525
+aMCnloPy8_tWH125            346486
+aMCnloPy8_tHjb125_4fl       mc16_13TeV.346188.aMcAtNloPythia8EvtGen_tHjb125_4fl_gamgam.*e6982_s3126*
+aMCnloPy8_tHjb125_4fl_shw_fix   mc16_13TeV.346188.aMcAtNloPythia8EvtGen_tHjb125_4fl_gamgam.*e7305*
+PowhegPy8_bbH125            345315
+
+
+# H125 alternative
+# ------------------------------------------------------------------------------
+PowhegH7_NNLOPS_ggH125      345306
+PowhegPy8_MPIOFF_ggH125     342560
+PowhegH713_NNLOPS_ggH125    346797
+PowhegH713_VBF125           346878
+PowhegH713_ZH125J           346879
+PowhegH713_WmH125J          346880
+PowhegH713_WpH125J          346881
+PowhegH713_ggZH125          346882
+MGHwpp_tHjb125_yt_plus1     341989
+MGPy8_tHjb125_yt_minus1     343266
+MGPy8_tHjb125_yt_plus2      343268
+aMCnloHwpp_tWH125_yt_plus1  341998
+aMCnloHwpp_tWH125_yt_minus1 341997
+aMCnloHwpp_tWH125_yt_plus2  341999
+aMCnloH7_tWH125             346883
+aMCnloPy8_ttH125            343436
+aMCnloPy8_ttH125_mc16d      345934
+aMCnloHwpp_ttH125           341081
+aMCnloPy8_ttH125_v260       346189
+PowhegHw7_ttH125_fixweight  346526
+aMCnloH7_ttH125             346601
+MGPy8_tHjb125_yt_plus1      343267
+MGPy8_tHjb125_yt_plus1_mc16d 345933
+aMCnloPy8_tHjb125_5fl      *346221*e7306*
+aMCnloH7_tHjb125            346602
+aMCnloPy8_bbH125_yb2        342097
+aMCnloPy8_bbH125_ybyt       342098
+aMCnloPy8EG_ppx0yy_FxFx_Np012_SM    345944
+aMcAtNloPy8EvtGen_ttX0_ca0          346303
+aMcAtNloPy8EvtGen_ttX0_ca0p7        346304
+aMCH7EG_VBF_Hyy        500552
+aMCPy8EG_ZH_FxFx_Hyy        500553
+aMCPy8EG_WH_FxFx_Hyy        500554
+aMCPy8EG_ggZH_Hyy        500555
+aMCH7EG_VBF_HC_Hyy	 506811
+aMCPy8EG_ggZH_Zhad_Hyy	 506814
+aMCPy8EG_ZH_had_FxFx_Hyy 506813
+aMCPy8EG_WH_had_FxFx_Hyy 506812
+
+# HVT
+# ------------------------------------------------------------------------------
+MGPy8_HVT_Agv1_VzWW_lvqq_m3000 302136
+MGPy8_HVT_Agv1_VcWZ_vvqq_m3000 302261
+MGPy8_HVT_Agv1_VcWZ_lvqq_m3000 302211
+MGPy8_HVT_Agv1_VcWZ_llqq_m3000 302236
+MGPy8_HVT_Agv1_VcWZ_lvll_m3000 302286
+MGPy8_HVT_Agv1_VzZH_llqq_m3000 302411
+MGPy8_HVT_Agv1_VzZH_vvqq_m3000 302436
+MGPy8_HVT_Agv1_VcWH_lvqq_m3000 302361
+MGPy8EG_HVT_Agv1_VzWW_qqqq_m3000 302111
+MGPy8EG_HVT_Agv1_VcWZ_qqqq_m3000 302186
+MGPy8EG_HVT_Agv1_VzZH_qqqq_m3000 302386
+MGPy8EG_HVT_Agv1_VcWH_qqqq_m3000 302336
+
+
+# Vprime
+# ------------------------------------------------------------------------------
+Py8EG_Wprime_enu_SSM3000 301243
+Py8EG_Wprime_munu_SSM3000 301247
+Py8EG_Zprime_NoInt_ee_E6Chi3000 301216
+Py8EG_Zprime_NoInt_mumu_E6Chi3000 301221
+Py8EG_zprime500_tt 301323
+Py8EG_zprime1000_tt 301325
+Py8EG_zprime2000_tt 301329
+Py8EG_Wprime1250_Zprime1000 308488
+Py8EG_Wprime_qq_3000 301826
+
+
+# HH for overlap studies
+# ------------------------------------------------------------------------------
+MGPy8EG_WpR_tblep_M2000 302719
+MGPy8EG_WpR_tbhad_M2000 306136
+ProtosPy8_TTS_M1400 302482
+MGPy8EG_WTht2000LH01K05 307018
+
+
+# HComb inclusive samples, for overlap studies
+# ------------------------------------------------------------------------------
+
+PowhegPy8_ggH125_Hincl        346309
+PowhegPy8_VBF125_Hincl        346317
+PowhegPy8_ZH125_Hincl	       346310
+PowhegPy8_WpH125_Hincl        346311
+PowhegPy8_WmH125_Hincl	              346312
+PowhegPy8_ttH125had_Hincl        346343
+PowhegPy8_ttH125slep_Hincl        346344
+PowhegPy8_ttH125dilep_Hincl        346345
+
+
+
+# VBF, VH, EFT samples
+# ------------------------------------------------------------------------------
+
+MGPy8EG_SMEFT_VBF_Hyy_BSM_reweight        503589
+MGPy8EG_SMEFT_VBF_Hyy_reweight        503590
+MGPy8EG_SMEFT_WH_Hyy_BSM_reweight        503591
+MGPy8EG_SMEFT_WH_Hyy_reweight        503592
+MGPy8EG_SMEFT_ZH_Hyy_BSM_reweight        503593
+MGPy8EG_SMEFT_ZH_Hyy_reweight        503594
+
+# ggH >=2 CP samples
+# ------------------------------------------------------------------------------
+
+aMcAtNloPy8_ggF2j_SM		346665
+aMcAtNloPy8_ggF2j_CPodd		346666
+aMcAtNloPy8_ggF2j_CPmix		346667
+
+# tHjb, ttH, tWH CP samples
+# ------------------------------------------------------------------------------
+
+aMCnloPy8_tHjb125_CPalpha_0	   346677
+aMCnloPy8_tHjb125_CPalpha_15       346539
+aMCnloPy8_tHjb125_CPalpha_30       346540
+aMCnloPy8_tHjb125_CPalpha_45       346541
+aMCnloPy8_tHjb125_CPalpha_60       346542
+aMCnloPy8_tHjb125_CPalpha_75       346543
+aMCnloPy8_tHjb125_CPalpha_90       346544
+
+aMCnloPy8_ttH125_CPalpha_15        346595
+aMCnloPy8_ttH125_CPalpha_30        346596
+aMCnloPy8_ttH125_CPalpha_60        346597
+aMCnloPy8_ttH125_CPalpha_75        346598
+
+aMCnloPy8_tWH125_CPalpha_0	   346759
+aMCnloPy8_tWH125_CPalpha_15        346545
+aMCnloPy8_tWH125_CPalpha_30        346546
+aMCnloPy8_tWH125_CPalpha_45        346547
+aMCnloPy8_tWH125_CPalpha_60        346548
+aMCnloPy8_tWH125_CPalpha_75        346549
+aMCnloPy8_tWH125_CPalpha_90        346550
+
+aMCnloPy8_tWH125_yt_minus1_CPalpha_0     346760
+aMCnloPy8_tWH125_yt_plus0p5_CPalpha_0    346761
+aMCnloPy8_tWH125_yt_plus2_CPalpha_0      346762
+aMCnloPy8_tWH125_yt_plus2_CPalpha_45     346763
+
+aMCnloPy8_tHjb125_yt_minus1_CPalpha_0     346764
+aMCnloPy8_tHjb125_yt_plus0p5_CPalpha_0    346765
+aMCnloPy8_tHjb125_yt_plus2_CPalpha_0      346766
+aMCnloPy8_tHjb125_yt_plus2_CPalpha_45     346767
+
+aMCnloPy8_ttH125_CPalpha_0               346798
+
+# ttH inclusive decay
+# ------------------------------------------------------------------------------
+PowhegPy8_ttH125_inc_allhad  345672
+PowhegPy8_ttH125_inc_semilep 345673
+PowhegPy8_ttH125_inc_dilep   345674
+
+# Different masses
+# ------------------------------------------------------------------------------
+
+PowhegPy8_NNLOPS_ggH110		345307
+PowhegPy8_NNLOPS_ggH122		345308
+PowhegPy8_NNLOPS_ggH123		345309
+PowhegPy8_NNLOPS_ggH124		345310
+PowhegPy8_NNLOPS_ggH124p5	345416
+PowhegPy8_NNLOPS_ggH125p5	345417
+PowhegPy8_NNLOPS_ggH126		345311
+PowhegPy8_NNLOPS_ggH127		345312
+PowhegPy8_NNLOPS_ggH130		345313
+PowhegPy8_NNLOPS_ggH140         345314
+
+PowhegPy8EG_NNPDF30_VBFH110		346780
+PowhegPy8EG_NNPDF30_VBFH122		346781
+PowhegPy8EG_NNPDF30_VBFH123		346782
+PowhegPy8EG_NNPDF30_VBFH124		346783
+PowhegPy8EG_NNPDF30_VBFH126		346784
+PowhegPy8EG_NNPDF30_VBFH127		346785
+PowhegPy8EG_NNPDF30_VBFH130		346786
+PowhegPy8EG_NNPDF30_VBFH140		346787
+
+PowhegPy8_ZH110J		345200
+PowhegPy8_ZH122J		345201
+PowhegPy8_ZH123J		345202
+PowhegPy8_ZH124J		345204
+PowhegPy8_ZH124p5		345205
+PowhegPy8_ZH125p5		345206
+PowhegPy8_ZH126J		345207
+PowhegPy8_ZH127J		345208
+PowhegPy8_ZH130J		345209
+PowhegPy8_ZH140J		345210
+
+PowhegPy8_WmH110J		345548
+PowhegPy8_WmH122J		345549
+PowhegPy8_WmH123J		345550
+PowhegPy8_WmH124J		345551
+PowhegPy8_WmH126J		345552
+PowhegPy8_WmH127J		345553
+PowhegPy8_WmH130J		345554
+PowhegPy8_WmH140J		345555
+
+PowhegPy8_WpH110J		345556
+PowhegPy8_WpH122J		345557
+PowhegPy8_WpH123J		345558
+PowhegPy8_WpH124J		345559
+PowhegPy8_WpH126J		345560
+PowhegPy8_WpH127J		345561
+PowhegPy8_WpH130J		345562
+PowhegPy8_WpH140J		345563
+
+PowhegPy8_ggZH110		 345266
+PowhegPy8_ggZH122		 345267
+PowhegPy8_ggZH123		 345268
+PowhegPy8_ggZH124		 345269
+PowhegPy8_ggZH126		 345270
+PowhegPy8_ggZH127		 345271
+PowhegPy8_ggZH130		 345272
+PowhegPy8_ggZH140		 345273
+
+PowhegPy8_ttH110      346668
+PowhegPy8_ttH122      346669
+PowhegPy8_ttH123      346670
+PowhegPy8_ttH124      346671
+PowhegPy8_ttH126      346672
+PowhegPy8_ttH127      346673
+PowhegPy8_ttH130      346674
+PowhegPy8_ttH140      346675
+
+aMCnloPy8_tHjb110_4fl      346707
+aMCnloPy8_tHjb122_4fl      346708
+aMCnloPy8_tHjb123_4fl      346709
+aMCnloPy8_tHjb124_4fl      346710
+aMCnloPy8_tHjb126_4fl      346711
+aMCnloPy8_tHjb127_4fl      346712
+aMCnloPy8_tHjb130_4fl      346713
+aMCnloPy8_tHjb140_4fl      346714
+
+aMCnloPy8_tWH110      346715
+aMCnloPy8_tWH122      346716
+aMCnloPy8_tWH123      346717
+aMCnloPy8_tWH124      346718
+aMCnloPy8_tWH126      346719
+aMCnloPy8_tWH127      346720
+aMCnloPy8_tWH130      346721
+aMCnloPy8_tWH140      346722
+
+# FCNC
+# ------------------------------------------------------------------------------
+PhPy8EG_ttbar_hdamp258p75_Q2cHbWmln         410764
+PhPy8EG_ttbar_hdamp258p75_Q2cHbWpln         410765
+PhPy8EG_ttbar_hdamp258p75_Q2cHbWmqq         410766
+PhPy8EG_ttbar_hdamp258p75_Q2cHbWpqq         410767
+PhPy8EG_ttbar_hdamp258p75_Q2uHbWmln         410768
+PhPy8EG_ttbar_hdamp258p75_Q2uHbWpln         410769
+PhPy8EG_ttbar_hdamp258p75_Q2uHbWmqq         410770
+PhPy8EG_ttbar_hdamp258p75_Q2uHbWpqq         410771
+
+MadGraphPythia8EvtGen_A14NNPDF23_tWgamma_GamFromDec         412006
+MadGraphPythia8EvtGen_A14NNPDF23_tWgamma         412120
+aMcAtNloPy8EG_A14NNPDF23_tqgammaSM_tchan_4fl_NLO         412147
+
+aMcAtNloPy8_tphiQHbWln          412051
+aMcAtNloPy8_tphiQHbWqq          412052
+aMcAtNloPy8_tcphiQHbWln         412053
+aMcAtNloPy8_tcphiQHbWqq         412054
+aMcAtNloPy8_uphiQHbWln          412055
+aMcAtNloPy8_uphiQHbWqq          412056
+aMcAtNloPy8_ctphiQHbWln         412057
+aMcAtNloPy8_ctphiQHbWqq         412058
+
+PhH7_tthdamp258p75_Q2cHgamgambWmln 600776
+PhH7_tthdamp258p75_Q2cHgamgambWmqq 600777
+PhH7_tthdamp258p75_Q2uHgamgambWmln 600778
+PhH7_tthdamp258p75_Q2uHgamgambWmqq 600779
+
+aMCnloH7_tphiQHgamgambWln 506809
+aMcnloH7_tphiQHgamgambWqq 506810
+aMCnloH7_tcphiQHgamgambWln 506807
+aMCnloH7_tcphiQHgamgambWqq 506808
+
+
+
+# FCNC (shower weight bugs)
+# ------------------------------------------------------------------------------
+# these ones have the shower weight bugs but are kept, only in mc16d
+# because they exist in both AFII and FS flavors, for comparison
+# here they are duplicated (AFII / FS)
+
+aMcAtNloPy8_tphiQHbWln_shwbug          410752
+aMcAtNloPy8_tphiQHbWqq_shwbug          410753
+aMcAtNloPy8_tcphiQHbWln_shwbug         410754
+aMcAtNloPy8_tcphiQHbWqq_shwbug         410755
+aMcAtNloPy8_uphiQHbWln_shwbug          410756
+aMcAtNloPy8_uphiQHbWqq_shwbug          410757
+aMcAtNloPy8_ctphiQHbWln_shwbug         410758
+aMcAtNloPy8_ctphiQHbWqq_shwbug         410759
+
+# H+c
+# ------------------------------------------------------------------------------
+
+MGPy8_cH_Hgammagamma        346394
+
+# Low/high-mass
+# ------------------------------------------------------------------------------
+
+PowhegPy8_ggH40		    345751
+PowhegPy8_ggH60     	    342020
+PowhegPy8_ggH80     	    342023
+PowhegPy8_ggH100     	    342008
+PowhegPy8_ggH120     	    342060
+PowhegPy8_ggH160     	    345752
+PowhegPy8_ggH200     	    342012
+PowhegPy8_ggH250     	    342013
+PowhegPy8_ggH300     	    342014
+PowhegPy8_ggH400     	    342016
+PowhegPy8_ggH600     	    342019
+PowhegPy8_ggH750     	    343470
+PowhegPy8_ggH800     	    342022
+PowhegPy8_ggH1000  	    342007
+PowhegPy8_ggH1500     	    342009
+PowhegPy8_ggH2000     	    342011
+PowhegPy8_ggH2400     	    346332
+PowhegPy8_ggH3000     	    346333
+PowhegPy8_ggH4000     	    346334
+PowhegPy8_ggH5000     	    346335
+
+PowhegPy8_VBFH40     	    345753
+PowhegPy8_VBFH60     	    342034
+PowhegPy8_VBFH80    	    342036
+PowhegPy8_VBFH100     	    342026
+PowhegPy8_VBFH120     	    342068
+PowhegPy8_VBFH160     	    345754
+PowhegPy8_VBFH200     	    342029
+PowhegPy8_VBFH300     	    342030
+PowhegPy8_VBFH400     	    342031
+PowhegPy8_VBFH600     	    342033
+PowhegPy8_VBFH800     	    342035
+PowhegPy8_VBFH1000     	    342025
+PowhegPy8_VBFH1500     	    342027
+PowhegPy8_VBFH2000     	    342028
+PowhegPy8_VBFH2400     	    346336
+PowhegPy8_VBFH3000     	    346337
+PowhegPy8_VBFH4000     	    346338
+PowhegPy8_VBFH5000     	    346339
+
+Pythia8_ZH40                345757
+Pythia8_ZH60                342270
+Pythia8_ZH80                342271
+Pythia8_ZH100               342272
+Pythia8_ZH120               342084
+Pythia8_ZH160               345758
+Pythia8_ZH200               342273
+Pythia8_ZH300               342274
+Pythia8_ZH400               342275
+Pythia8_ZH600               342277
+Pythia8_ZH800               342278
+Pythia8_ZH1000              342279
+Pythia8_ZH1500              342280
+Pythia8_ZH2000              342281
+Pythia8_ZH2400              346353
+Pythia8_ZH3000              346354
+Pythia8_ZH4000              346355
+Pythia8_ZH5000              346356
+
+Pythia8_WH40                345755
+Pythia8_WH60                342258
+Pythia8_WH80                342259
+Pythia8_WH100               342260
+Pythia8_WH120               342076
+Pythia8_WH160               345756
+Pythia8_WH200               342261
+Pythia8_WH300               342262
+Pythia8_WH400               342263
+Pythia8_WH600               342265
+Pythia8_WH800               342266
+Pythia8_WH1000              342267
+Pythia8_WH1500              342268
+Pythia8_WH2000              342269
+Pythia8_WH2400              346349
+Pythia8_WH3000              346350
+Pythia8_WH4000              346351
+Pythia8_WH5000              346352
+
+Pythia8_ttH40               345759
+Pythia8_ttH60               342046
+Pythia8_ttH80               342048
+Pythia8_ttH100              342038
+Pythia8_ttH120              345760
+Pythia8_ttH160              345761
+Pythia8_ttH200              342041
+Pythia8_ttH300              342042
+Pythia8_ttH400              342043
+Pythia8_ttH600              342045
+Pythia8_ttH800              342047
+Pythia8_ttH1000             342037
+Pythia8_ttH1500             342039
+Pythia8_ttH2000             342040
+Pythia8_ttH2400             346357
+Pythia8_ttH3000             346358
+Pythia8_ttH4000             346359
+Pythia8_ttH5000             346360
+
+Pythia8_G500_k001			301839
+Pythia8_G1000_k001			301840
+Pythia8_G2000_k001			301842
+Pythia8_G3000_k001			302467
+Pythia8_G4000_k001			301845
+Pythia8_G5000_k001			301847
+Pythia8_G6000_k001			346361
+Pythia8_G7000_k001			346362
+Pythia8_G500_k005			301849
+Pythia8_G1000_k005			301850
+Pythia8_G2000_k005			301852
+Pythia8_G3000_k005			302466
+Pythia8_G4000_k005			301855
+Pythia8_G5000_k005			301857
+Pythia8_G6000_k005			346363
+Pythia8_G7000_k005			346364
+Pythia8_G500_k01			302460
+Pythia8_G1000_k01			302461
+Pythia8_G2000_k01			302462
+Pythia8_G3000_k01			302463
+Pythia8_G4000_k01			302464
+Pythia8_G5000_k01			302465
+Pythia8_G6000_k01			346365
+Pythia8_G7000_k01			346366
+Pythia8_G4000_k015			346367
+Pythia8_G5000_k02			346368
+Pythia8_G6000_k02			346369
+Pythia8_G7000_k02			346370
+Pythia8_G5000_k03			346371
+Pythia8_G6000_k03			346372
+Pythia8_G7000_k03			346373
+
+Pythia8_G150_k001  800541
+Pythia8_G200_k001  800542
+Pythia8_G300_k001  800543
+Pythia8_G400_k001  800544
+
+# bbX, ttX at high mass (ATLMCPROD-6922)
+# ------------------------------------------------------------------------------
+
+Py8_bbH180	346403
+Py8_bbH250	346404
+Py8_bbH500	346405
+Py8_bbH750	346406
+Py8_bbH1500	346407
+
+aMCnloPy8_ttH180	346408
+aMCnloPy8_ttH250	346409
+aMCnloPy8_ttH500	346410
+aMCnloPy8_ttH750	346411
+aMCnloPy8_ttH1500	346412
+
+
+# Low/high mass spin0 Madgraph NW yy
+# ------------------------------------------------------------------------------
+
+aMCnloPy8_X0toyy_40_NW        345762
+aMCnloPy8_X0toyy_50_NW        345763
+aMCnloPy8_X0toyy_60_NW        345764
+aMCnloPy8_X0toyy_70_NW        345766
+aMCnloPy8_X0toyy_80_NW        345767
+aMCnloPy8_X0toyy_90_NW        345768
+aMCnloPy8_X0toyy_100_NW       345769
+aMCnloPy8_X0toyy_110_NW       345770
+aMCnloPy8_X0toyy_120_NW       345771
+aMCnloPy8_X0toyy_140_NW       345772
+aMCnloPy8_X0toyy_160_NW       345773
+aMCnloPy8_X0toyy_180_NW       345774
+aMCnloPy8_X0toyy_200_NW       344181
+aMCnloPy8_X0toyy_400_NW       344182
+aMCnloPy8_X0toyy_800_NW       344184
+aMCnloPy8_X0toyy_1000_NW      344185
+aMCnloPy8_X0toyy_1200_NW      344186
+aMCnloPy8_X0toyy_1600_NW      344187
+aMCnloPy8_X0toyy_2000_NW      344188
+aMCnloPy8_X0toyy_2400_NW      344189
+aMCnloPy8_X0toyy_3000_NW      346201
+aMCnloPy8_X0toyy_4000_NW      346202
+aMCnloPy8_X0toyy_5000_NW      346203
+
+
+# Low/high mass spin0 Madgraph W5p, W2p, W6p, W10p yy
+# ------------------------------------------------------------------------------
+aMCnloPy8_X0toyy_60_W5p         345765
+aMCnloPy8_X0toyy_200_W2p	344190
+aMCnloPy8_X0toyy_400_W2p	344191
+aMCnloPy8_X0toyy_800_W2p	344193
+aMCnloPy8_X0toyy_1000_W2p	344194
+aMCnloPy8_X0toyy_1200_W2p	344195
+aMCnloPy8_X0toyy_1600_W2p	344196
+aMCnloPy8_X0toyy_2000_W2p	344197
+aMCnloPy8_X0toyy_2400_W2p	344198
+aMCnloPy8_X0toyy_3000_W2p	346204
+aMCnloPy8_X0toyy_4000_W2p	346205
+aMCnloPy8_X0toyy_5000_W2p	346206
+aMCnloPy8_X0toyy_200_W6p	344199
+aMCnloPy8_X0toyy_400_W6p	344200
+aMCnloPy8_X0toyy_800_W6p	344202
+aMCnloPy8_X0toyy_1000_W6p	344203
+aMCnloPy8_X0toyy_1200_W6p	344204
+aMCnloPy8_X0toyy_1600_W6p	344205
+aMCnloPy8_X0toyy_2000_W6p	344206
+aMCnloPy8_X0toyy_2400_W6p	344207
+aMCnloPy8_X0toyy_3000_W6p	346207
+aMCnloPy8_X0toyy_4000_W6p	346208
+aMCnloPy8_X0toyy_5000_W6p	346209
+aMCnloPy8_X0toyy_200_W10p	344208
+aMCnloPy8_X0toyy_400_W10p	344209
+aMCnloPy8_X0toyy_800_W10p	344211
+aMCnloPy8_X0toyy_1000_W10p      344212
+aMCnloPy8_X0toyy_1200_W10p      344213
+aMCnloPy8_X0toyy_1600_W10p      344214
+aMCnloPy8_X0toyy_2000_W10p      344215
+aMCnloPy8_X0toyy_2400_W10p      344216
+aMCnloPy8_X0toyy_3000_W10p	346210
+aMCnloPy8_X0toyy_4000_W10p	346211
+aMCnloPy8_X0toyy_5000_W10p	346212
+
+
+# Very low mass
+# ------------------------------------------------------------------------------
+MGPy8EG_012j_X0toyy_10_NW		346648
+MGPy8EG_012j_X0toyy_15_NW		346649
+MGPy8EG_012j_X0toyy_20_NW		346650
+MGPy8EG_012j_X0toyy_25_NW		346651
+MGPy8EG_012j_X0toyy_30_NW		346652
+MGPy8EG_012j_X0toyy_35_NW		346653
+MGPy8EG_012j_X0toyy_40_NW		346654
+MGPy8EG_012j_X0toyy_45_NW		346655
+MGPy8EG_012j_X0toyy_50_NW		346656
+MGPy8EG_012j_X0toyy_55_NW		346657
+MGPy8EG_012j_X0toyy_60_NW		346658
+MGPy8EG_012j_X0toyy_65_NW		346659
+MGPy8EG_012j_X0toyy_70_NW		346660
+MGPy8EG_012j_X0toyy_75_NW		346661
+MGPy8EG_012j_X0toyy_80_NW		346662
+MGPy8EG_012j_X0toyy_85_NW		346663
+MGPy8EG_012j_X0toyy_90_NW		346664
+
+
+# SUSY C1N2Wh
+# ------------------------------------------------------------------------------
+MGPy8_C1N2_Wh_hgg_150p0_0p0_all 394864
+MGPy8_C1N2_Wh_hgg_200p0_0p0_all 394865
+MGPy8_C1N2_Wh_hgg_300p0_0p0_all 394866
+MGPy8_C1N2_Wh_hgg_400p0_0p0_all 394867
+MGPy8_C1N2_Wh_hgg_500p0_0p0_all 394868
+MGPy8_C1N2_Wh_hgg_600p0_0p0_all 394869
+
+MGPy8_C1N2_Wh_hgg_150p0_22p0_all 394879
+MGPy8_C1N2_Wh_hgg_300p0_100p0_all 394870
+MGPy8_C1N2_Wh_hgg_400p0_200p0_all 394871
+MGPy8_C1N2_Wh_hgg_400p0_272p0_all 394880
+MGPy8_C1N2_Wh_hgg_600p0_472p0_all 394881
+
+
+# SUSY GGMHinohyy
+# ------------------------------------------------------------------------------
+
+MGPy8_C1N2N1_GGMHinohyy_130_2G15 397070
+MGPy8_C1N2N1_GGMHinohyy_150_2G15 397071
+MGPy8_C1N2N1_GGMHinohyy_200_2G15 397072
+MGPy8_C1N2N1_GGMHinohyy_300_2G15 397073
+MGPy8_C1N2N1_GGMHinohyy_400_2G15 397074
+MGPy8_C1N2N1_GGMHinohyy_500_2G15 397075
+MGPy8_C1N2N1_GGMHinohyy_600_2G15 397076
+MGPy8_C1N2N1_GGMHinohyy_800_2G15 397077
+MGPy8_C1N2N1_GGMHinohyy_1000_2G15 398173
+MGPy8_C1N2N1_GGMHinohyy_1200_2G15 398174
+
+# SUSY GGMHinoZhyy
+# ------------------------------------------------------------------------------
+
+MGPy8_C1N2N1_GGMHinoZhyy_130_2G15 397078
+MGPy8_C1N2N1_GGMHinoZhyy_150_2G15 397079
+MGPy8_C1N2N1_GGMHinoZhyy_200_2G15 397080
+MGPy8_C1N2N1_GGMHinoZhyy_300_2G15 397081
+MGPy8_C1N2N1_GGMHinoZhyy_400_2G15 397082
+MGPy8_C1N2N1_GGMHinoZhyy_500_2G15 397083
+MGPy8_C1N2N1_GGMHinoZhyy_600_2G15 397084
+MGPy8_C1N2N1_GGMHinoZhyy_800_2G15 397085
+MGPy8_C1N2N1_GGMHinoZhyy_1000_2G15 398175
+MGPy8_C1N2N1_GGMHinoZhyy_1200_2G15 398176
+
+
+# HHDmr
+# ------------------------------------------------------------------------------
+
+MGPy8_HHDMmr275mx60br50_DMgamgam 342249
+
+# H + MET
+# ------------------------------------------------------------------------------
+Pythia8_H300_S140_S140yy     344226
+Pythia8_H300_S140_h125yy     344227
+Pythia8_H300_S140yy_h125     344228
+
+Pythia8_A350_Z_jj_H250_yy    345343
+Pythia8_A350_Z_vv_H250_yy    345344
+Pythia8_A400_Z_jj_H250_yy    345062
+Pythia8_A400_Z_vv_H250_yy    345063
+Pythia8_R450_S160_jj_H250_yy 345347
+Pythia8_R450_S160_vv_H250_yy 345348
+Pythia8_R420_S160_jj_H250_yy 345351
+Pythia8_R420_S160_vv_H250_yy 345352
+
+# mono-Higgs
+# ------------------------------------------------------------------------------
+MGPy8_zphxx_gg_mzp10_mx1 342101
+MGPy8_zphxx_gg_mzp10_mx10 344314
+MGPy8_zphxx_gg_mzp10_mx50 344315
+MGPy8_zphxx_gg_mzp10_mx150 342106
+MGPy8_zphxx_gg_mzp20_mx1 344318
+MGPy8_zphxx_gg_mzp20_mx10 344319
+MGPy8_zphxx_gg_mzp20_mx50 344320
+MGPy8_zphxx_gg_mzp20_mx150 344321
+MGPy8_zphxx_gg_mzp50_mx1 344324
+MGPy8_zphxx_gg_mzp50_mx10 344325
+MGPy8_zphxx_gg_mzp50_mx50 344326
+MGPy8_zphxx_gg_mzp50_mx150 344327
+MGPy8_zphxx_gg_mzp100_mx1 344330
+MGPy8_zphxx_gg_mzp100_mx10 344331
+MGPy8_zphxx_gg_mzp100_mx50 344332
+MGPy8_zphxx_gg_mzp100_mx150 344333
+MGPy8_zphxx_gg_mzp200_mx1 342102
+MGPy8_zphxx_gg_mzp200_mx10 344336
+MGPy8_zphxx_gg_mzp200_mx50 344337
+MGPy8_zphxx_gg_mzp200_mx150 342107
+MGPy8_zphxx_gg_mzp295_mx150 342108
+MGPy8_zphxx_gg_mzp300_mx1 342103
+MGPy8_zphxx_gg_mzp300_mx10 344340
+MGPy8_zphxx_gg_mzp300_mx50 344341
+MGPy8_zphxx_gg_mzp500_mx1 344344
+MGPy8_zphxx_gg_mzp500_mx10 344345
+MGPy8_zphxx_gg_mzp500_mx50 344346
+MGPy8_zphxx_gg_mzp500_mx150 344347
+MGPy8_zphxx_gg_mzp1000_mx1 344350
+MGPy8_zphxx_gg_mzp1000_mx10 344351
+MGPy8_zphxx_gg_mzp1000_mx50 344352
+MGPy8_zphxx_gg_mzp1000_mx150 344353
+MGPy8_zphxx_gg_mzp1000_mx1000 342109
+MGPy8_zphxx_gg_mzp1995_mx1000 342110
+MGPy8_zphxx_gg_mzp2000_mx1 342104
+MGPy8_zphxx_gg_mzp10000_mx1 342105
+
+MGPy8_zp2hdmxx_gg_mzp400_mA200 312866
+MGPy8_zp2hdmxx_gg_mzp600_mA400 312869
+MGPy8_zp2hdmxx_gg_mzp800_mA500 312870
+MGPy8_zp2hdmxx_gg_mzp800_mA600 312871
+MGPy8_zp2hdmxx_gg_mzp1000_mA200 312867
+MGPy8_zp2hdmxx_gg_mzp1000_mA500 312872
+MGPy8_zp2hdmxx_gg_mzp1400_mA400 312873
+MGPy8_zp2hdmxx_gg_mzp1600_mA300 312874
+MGPy8_zp2hdmxx_gg_mzp1800_mA200 312868
+
+
+
+# mono-Higgs 2HDM+a
+# ------------------------------------------------------------------------------
+
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA1500_ma500 	 312662
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA1500_ma500 	 312663
+MGPy8_2HDMa_bb_monoHyy_tb5_sp035_mA1500_ma500 	 312664
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp035_mA1500_ma500 	 312665
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA200_ma100 	 312666
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA200_ma100 	 312667
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA200_ma300 	 312668
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA200_ma300 	 312669
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA200_ma500 	 312670
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA200_ma500 	 312671
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA600_ma100 	 312672
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA600_ma100 	 312673
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA600_ma300 	 312674
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA600_ma300 	 312675
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA600_ma500 	 312676
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA600_ma500 	 312677
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA900_ma250 	 312678
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA900_ma250 	 312679
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA1000_ma350 	 312680
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA1000_ma350 	 312681
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA1600_ma100 	 312682
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA1600_ma100 	 312683
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA1600_ma300 	 312684
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA1600_ma300 	 312685
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA1600_ma500 	 312686
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA1600_ma500 	 312687
+MGPy8_2HDMa_bb_monoHyy_tb03_sp035_mA600_ma100 	 312688
+MGPy8_2HDMa_ggF_monoHyy_tb03_sp035_mA600_ma100 	 312689
+MGPy8_2HDMa_bb_monoHyy_tb03_sp035_mA600_ma300 	 312690
+MGPy8_2HDMa_ggF_monoHyy_tb03_sp035_mA600_ma300 	 312691
+MGPy8_2HDMa_bb_monoHyy_tb03_sp035_mA600_ma500 	 312692
+MGPy8_2HDMa_ggF_monoHyy_tb03_sp035_mA600_ma500 	 312693
+MGPy8_2HDMa_bb_monoHyy_tb5_sp035_mA600_ma100 	 312694
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp035_mA600_ma100 	 312695
+MGPy8_2HDMa_bb_monoHyy_tb5_sp035_mA600_ma300 	 312696
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp035_mA600_ma300 	 312697
+MGPy8_2HDMa_bb_monoHyy_tb5_sp035_mA600_ma500 	 312698
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp035_mA600_ma500 	 312699
+MGPy8_2HDMa_bb_monoHyy_tb10_sp035_mA600_ma100 	 312700
+MGPy8_2HDMa_ggF_monoHyy_tb10_sp035_mA600_ma100 	 312701
+MGPy8_2HDMa_bb_monoHyy_tb10_sp035_mA600_ma300 	 312702
+MGPy8_2HDMa_ggF_monoHyy_tb10_sp035_mA600_ma300 	 312703
+MGPy8_2HDMa_bb_monoHyy_tb10_sp035_mA600_ma500 	 312704
+MGPy8_2HDMa_ggF_monoHyy_tb10_sp035_mA600_ma500 	 312705
+MGPy8_2HDMa_bb_monoHyy_tb03_sp07_mA300_ma250 	 312706
+MGPy8_2HDMa_ggF_monoHyy_tb03_sp07_mA300_ma250 	 312707
+MGPy8_2HDMa_bb_monoHyy_tb03_sp07_mA600_ma250 	 312708
+MGPy8_2HDMa_ggF_monoHyy_tb03_sp07_mA600_ma250 	 312709
+MGPy8_2HDMa_bb_monoHyy_tb03_sp07_mA900_ma250 	 312710
+MGPy8_2HDMa_ggF_monoHyy_tb03_sp07_mA900_ma250 	 312711
+MGPy8_2HDMa_bb_monoHyy_tb03_sp07_mA1600_ma250 	 312712
+MGPy8_2HDMa_ggF_monoHyy_tb03_sp07_mA1600_ma250 	 312713
+MGPy8_2HDMa_bb_monoHyy_tb1_sp07_mA300_ma250 	 312714
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp07_mA300_ma250 	 312715
+MGPy8_2HDMa_bb_monoHyy_tb1_sp07_mA600_ma250 	 312716
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp07_mA600_ma250 	 312717
+MGPy8_2HDMa_bb_monoHyy_tb1_sp07_mA900_ma250 	 312718
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp07_mA900_ma250 	 312719
+MGPy8_2HDMa_bb_monoHyy_tb1_sp07_mA1600_ma250 	 312720
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp07_mA1600_ma250 	 312721
+MGPy8_2HDMa_bb_monoHyy_tb5_sp07_mA300_ma250 	 312722
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp07_mA300_ma250 	 312723
+MGPy8_2HDMa_bb_monoHyy_tb5_sp07_mA600_ma250 	 312724
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp07_mA600_ma250 	 312725
+MGPy8_2HDMa_bb_monoHyy_tb5_sp07_mA900_ma250 	 312726
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp07_mA900_ma250 	 312727
+MGPy8_2HDMa_bb_monoHyy_tb5_sp07_mA1600_ma250 	 312728
+MGPy8_2HDMa_ggF_monoHyy_tb5_sp07_mA1600_ma250 	 312729
+MGPy8_2HDMa_bb_monoHyy_tb10_sp07_mA300_ma250 	 312730
+MGPy8_2HDMa_ggF_monoHyy_tb10_sp07_mA300_ma250 	 312731
+MGPy8_2HDMa_bb_monoHyy_tb10_sp07_mA600_ma250 	 312732
+MGPy8_2HDMa_ggF_monoHyy_tb10_sp07_mA600_ma250 	 312733
+MGPy8_2HDMa_bb_monoHyy_tb10_sp07_mA900_ma250 	 312734
+MGPy8_2HDMa_ggF_monoHyy_tb10_sp07_mA900_ma250 	 312735
+MGPy8_2HDMa_bb_monoHyy_tb10_sp07_mA1600_ma250 	 312736
+MGPy8_2HDMa_ggF_monoHyy_tb10_sp07_mA1600_ma250 	 312737
+MGPy8_2HDMa_bb_monoHyy_tb1_sp01_mA600_ma200 	 312738
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp01_mA600_ma200 	 312739
+MGPy8_2HDMa_bb_monoHyy_tb1_sp01_mA1000_ma350 	 312740
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp01_mA1000_ma350 	 312741
+MGPy8_2HDMa_bb_monoHyy_tb1_sp035_mA600_ma200 	 312742
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp035_mA600_ma200 	 312743
+MGPy8_2HDMa_bb_monoHyy_tb1_sp07_mA600_ma200 	 312744
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp07_mA600_ma200 	 312745
+MGPy8_2HDMa_bb_monoHyy_tb1_sp07_mA1000_ma350 	 312746
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp07_mA1000_ma350 	 312747
+MGPy8_2HDMa_bb_monoHyy_tb1_sp09_mA600_ma200 	 312748
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp09_mA600_ma200 	 312749
+MGPy8_2HDMa_bb_monoHyy_tb1_sp09_mA1000_ma350 	 312750
+MGPy8_2HDMa_ggF_monoHyy_tb1_sp09_mA1000_ma350 	 312751
+
+# B->bH (H + HF)
+# ------------------------------------------------------------------------------
+
+MGPy8_ZBhb800LH01K05 309105
+MGPy8_ZBhb900LH01K01 309106
+MGPy8_ZBhb900LH01K05 309107
+MGPy8_ZBhb900LH01K10 309108
+MGPy8_ZBhb1000LH01K0 309109
+MGPy8_ZBhb1200LH01K0 309110
+MGPy8_ZBhb1400LH01K0 309111
+MGPy8_ZBhb1600LH01K0 309112
+
+# yybb
+# ------------------------------------------------------------------------------
+
+PowhegPy8_HHbbyy_cHHH01d0	     600021
+PowhegPy8_HHbbyy_cHHH10d0	     600022
+MGPy8_hh_bbyy_vbf_l1cvv1cv1	     503004
+MGPy8_hh_bbyy_vbf_l1cvv0cv1	     503005
+MGPy8_hh_bbyy_vbf_l1cvv0p5cv1	     503006
+MGPy8_hh_bbyy_vbf_l1cvv1p5cv1	     503007
+MGPy8_hh_bbyy_vbf_l1cvv2cv1	     503008
+MGPy8_hh_bbyy_vbf_l1cvv3cv1	     503009
+MGPy8_hh_bbyy_vbf_l0cvv1cv1	     503010
+MGPy8_hh_bbyy_vbf_l2cvv1cv1	     503011
+MGPy8_hh_bbyy_vbf_l10cvv1cv1	     503012
+MGPy8_hh_bbyy_vbf_l1cvv1cv0p5	     503013
+MGPy8_hh_bbyy_vbf_l1cvv1cv1p5	     503014
+MGPy8_hh_bbyy_vbf_l0cvv0cv1	     503015
+MGH7EG_hh_bbyy_vbf_l1cvv1cv1	     506978
+MGH7EG_hh_bbyy_vbf_l1cvv0cv1	     506979
+MGH7EG_hh_bbyy_vbf_l10cvv1cv1   506980
+MGPy8EG_hh_bbyy_vbf_novhh_l5mcvv1cv0p5	508689
+PowhegH7_HHbbyy_cHHH01d0	     600051
+PowhegH7_HHbbyy_cHHH10d0	     600052
+MGH7_X251tohh_bbyy                   450527
+MGH7_X260tohh_bbyy                   450528
+MGH7_X280tohh_bbyy                   450529
+MGH7_X300tohh_bbyy                   450530
+MGH7_X325tohh_bbyy                   450531
+MGH7_X350tohh_bbyy                   450532
+MGH7_X400tohh_bbyy                   450533
+MGH7_X450tohh_bbyy                   450534
+MGH7_X500tohh_bbyy                   450535
+MGH7_X550tohh_bbyy                   450536
+MGH7_X600tohh_bbyy                   450537
+MGH7_X700tohh_bbyy                   450538
+MGH7_X800tohh_bbyy                   450539
+MGH7_X900tohh_bbyy                   450540
+MGH7_X1000tohh_bbyy                  450541
+MGH7_X2000tohh_bbyy                  450542
+MGH7_X3000tohh_bbyy                  450543
+
+MGH7_X270tohh_bbyy 451892
+MGH7_X290tohh_bbyy 451893
+MGH7_X3125tohh_bbyy 451894
+MGH7_X3375tohh_bbyy 451895
+MGH7_X375tohh_bbyy 451896
+MGH7_X425tohh_bbyy 451897
+MGH7_X475tohh_bbyy 451898
+
+MGPy8_X280tohh_bbyy                  450517
+MGPy8_X500tohh_bbyy                  450518
+MGPy8_X1000tohh_bbyy                 450519
+
+PhPy8EG_VBF251_hh_bbyy               450498
+PhPy8EG_VBF260_hh_bbyy               450499
+PhPy8EG_VBF280_hh_bbyy               450500
+PhPy8EG_VBF300_hh_bbyy               450501
+PhPy8EG_VBF325_hh_bbyy               450502
+PhPy8EG_VBF350_hh_bbyy               450503
+PhPy8EG_VBF400_hh_bbyy               450504
+PhPy8EG_VBF450_hh_bbyy               450505
+PhPy8EG_VBF500_hh_bbyy               450506
+PhPy8EG_VBF550_hh_bbyy               450507
+PhPy8EG_VBF600_hh_bbyy               450508
+PhPy8EG_VBF700_hh_bbyy               450509
+PhPy8EG_VBF800_hh_bbyy               450510
+PhPy8EG_VBF900_hh_bbyy               450511
+PhPy8EG_VBF1000_hh_bbyy              450512
+
+# yyWW
+# ------------------------------------------------------------------------------
+
+MGPy8_sm_lnugamgamjj_qcd2_13TeV 343363
+aMCnloHpp_Xhh_m260_yyWW_llvv    345901
+aMCnloHppXhh_m300_yyWW_llvv     345902
+aMCnloHppXhh_m400_yyWW_llvv     345903
+aMCnloHppXhh_m500_yyWW_llvv     345904
+aMCnloHpp_UEEE5_CTEQ6L1_CT10ME_hh_yyWW_llvv  345905
+
+# tcH
+# ------------------------------------------------------------------------------
+
+aMCnloPy8_Q2cHgamgambWmln   410804
+aMCnloPy8_Q2cHgamgambWpln   410805
+aMCnloPy8_Q2cHgamgambWmqq   410806
+aMCnloPy8_Q2cHgamgambWpqq   410807
+
+# VLQ
+# ------------------------------------------------------------------------------
+
+MGPy8_Tp800_S4_aa	311410
+MGPy8_Tp800_S6_aa	311411
+MGPy8_Tp1000_S4_aa	311412
+MGPy8_Tp1000_S8_aa	311413
+MGPy8_Tp1200_S4_aa	311414
+MGPy8_Tp1200_S8_aa	311415
+MGPy8_Tp1200_S10_aa	311416
+
+
+# ==============================================================================
+# Background samples
+# ==============================================================================
+
+# Diphoton Sherpa 2.2 NLO
+# ------------------------------------------------------------------------------
+Sherpa2_diphoton_myy_0_50       364350
+Sherpa2_diphoton_myy_50_90      364351
+Sherpa2_diphoton_myy_90_175     364352
+Sherpa2_diphoton_myy_175_2000   364353
+Sherpa2_diphoton_myy_1400_2000  346599
+Sherpa2_diphoton_myy_2000_ECMS  364354
+
+
+# 2DP20
+# ------------------------------------------------------------------------------
+Pythia8_2DP20_Mass_0_55      364423
+Pythia8_2DP20_Mass_55_100    302520
+Pythia8_2DP20_Mass_100_160   302521
+Pythia8_2DP20_Mass_160_250   302522
+Pythia8_2DP20_Mass_250_400   302523
+Pythia8_2DP20_Mass_400_650   302524
+Pythia8_2DP20_Mass_650_1000  302525
+Pythia8_2DP20_Mass_1000_1500 302526
+Pythia8_2DP20_Mass_1500_2000 302527
+Pythia8_2DP20_Mass_2000_2500 302528
+Pythia8_2DP20_Mass_2500_3000 302529
+Pythia8_2DP20_Mass_3000_3500 302530
+Pythia8_2DP20_Mass_3500_4000 302531
+Pythia8_2DP20_Mass_4000_4500 302532
+Pythia8_2DP20_Mass_4500_5000 302533
+Pythia8_2DP20_Mass_5000_inf  302534
+
+# 2DP50
+# ------------------------------------------------------------------------------
+Sherpa_2DP50_DirectPhotonFilter 407013
+
+
+# special 2DP
+# ------------------------------------------------------------------------------
+Pythia8_1Hard1BremDP40 344008
+
+
+
+
+# Sherpa diphoton background
+# ------------------------------------------------------------------------------
+
+Sherpa_2DP20_myy_0_55           303727
+Sherpa_2DP20_myy_55_100         303728
+Sherpa_2DP20_myy_100_160        303729
+Sherpa_2DP20_myy_160_250        303730
+Sherpa_2DP20_myy_250_400        303731
+Sherpa_2DP20_myy_400_650        303732
+Sherpa_2DP20_myy_650_1000       303733
+Sherpa_2DP20_myy_1000_1500      303734
+Sherpa_2DP20_myy_1500_2000      303735
+Sherpa_2DP20_myy_2000_2500      303736
+Sherpa_2DP20_myy_2500_3000      303737
+Sherpa_2DP20_myy_3000_3500      303738
+Sherpa_2DP20_myy_3500_4000      303739
+Sherpa_2DP20_myy_4000_4500      303740
+Sherpa_2DP20_myy_4500_5000      303741
+Sherpa_2DP20_myy_5000_inf       303742
+Sherpa_2DP20_myy_100_160_3jets  303751
+
+
+# Sherpa diphoton background fast
+# ------------------------------------------------------------------------------
+
+Sherpa_2DP20_myy_80_90_3jets    345059
+Sherpa_2DP20_myy_90_100_3jets   344236
+Sherpa_2DP20_myy_100_165_3jets  341939
+Sherpa_2DP20_myy_165_200_3jets  344421
+
+# Sherpa diphoton background for low mass boosted resonance search
+# ------------------------------------------------------------------------------
+
+Sherpa2_diphotonBoosted_myy_0_90  364397
+
+# Four photon samples
+# ------------------------------------------------------------------------------
+Sh_228_yyyy	700009
+
+# Gamma jets Pythia
+# ------------------------------------------------------------------------------
+
+Pythia8_gammajet_DP8_17         423099
+Pythia8_gammajet_DP17_35        423100
+Pythia8_gammajet_DP35_50        423101
+Pythia8_gammajet_DP50_70        423102
+Pythia8_gammajet_DP70_140       423103
+Pythia8_gammajet_DP140_280      423104
+Pythia8_gammajet_DP280_500      423105
+Pythia8_gammajet_DP500_800      423106
+Pythia8_gammajet_DP800_1000     423107
+Pythia8_gammajet_DP1000_1500    423108
+Pythia8_gammajet_DP1500_2000    423109
+Pythia8_gammajet_DP2000_2500    423110
+Pythia8_gammajet_DP2500_3000    423111
+Pythia8_gammajet_DP3000_inf     423112
+
+# Gamma jets Sherpa LO
+# ------------------------------------------------------------------------------
+
+Sherpa_SinglePhotonPt15_35_QCUT5_BFilter      343283
+Sherpa_SinglePhotonPt15_35_QCUT5_CFilterBVeto 343281
+Sherpa_SinglePhotonPt15_35_QCUT5_CVetoBVeto   343279
+Sherpa_SinglePhotonPt35_70_BFilter            361041
+Sherpa_SinglePhotonPt35_70_CFilterBVeto       361040
+Sherpa_SinglePhotonPt35_70_CVetoBVeto         361039
+Sherpa_SinglePhotonPt70_140_BFilter           361044
+Sherpa_SinglePhotonPt70_140_CFilterBVeto      361043
+Sherpa_SinglePhotonPt70_140_CVetoBVeto        361042
+Sherpa_SinglePhotonPt140_280_BFilter          361047
+Sherpa_SinglePhotonPt140_280_CFilterBVeto     361046
+Sherpa_SinglePhotonPt140_280_CVetoBVeto       361045
+Sherpa_SinglePhotonPt280_500_BFilter          361050
+Sherpa_SinglePhotonPt280_500_CFilterBVeto     361049
+Sherpa_SinglePhotonPt280_500_CVetoBVeto       361048
+Sherpa_SinglePhotonPt500_1000_BFilter         361053
+Sherpa_SinglePhotonPt500_1000_CFilterBVeto    361052
+Sherpa_SinglePhotonPt500_1000_CVetoBVeto      361051
+Sherpa_SinglePhotonPt1000_2000_BFilter        361056
+Sherpa_SinglePhotonPt1000_2000_CFilterBVeto   361055
+Sherpa_SinglePhotonPt1000_2000_CVetoBVeto     361054
+Sherpa_SinglePhotonPt2000_4000_BFilter        361059
+Sherpa_SinglePhotonPt2000_4000_CFilterBVeto   361058
+Sherpa_SinglePhotonPt2000_4000_CVetoBVeto     361057
+Sherpa_SinglePhotonPt4000_BFilter             361062
+Sherpa_SinglePhotonPt4000_CFilterBVeto        361061
+Sherpa_SinglePhotonPt4000_CVetoBVeto          361060
+
+
+# Gamma jets Sherpa NLO
+# ------------------------------------------------------------------------------
+Sherpa_222_SinglePhoton_pty_17_35             364541
+Sherpa_222_SinglePhoton_pty_35_70             364542
+Sherpa_222_SinglePhoton_pty_70_140            364543
+Sherpa_222_SinglePhoton_pty_140_280           364544
+Sherpa_222_SinglePhoton_pty_280_500	      364545
+Sherpa_222_SinglePhoton_pty_500_1000          364546
+Sherpa_222_SinglePhoton_pty_1000_E_CMS        364547
+
+
+# Dijet Pythia JF
+# ------------------------------------------------------------------------------
+
+Pythia8_perf_JF17 423300
+Pythia8_perf_JF23 423301
+Pythia8_perf_JF35 423302
+Pythia8_perf_JF50 423303
+
+
+# ttgamgam
+# ------------------------------------------------------------------------------
+
+MGPy8_ttgammagamma_noallhad  345868
+MGPy8_ttgammagamma_allhad    345869
+
+
+# bbgamgam, ttgamgam at high mass > 145 GeV (ATLMCPROD-6922)
+# ------------------------------------------------------------------------------
+
+MGPy8_bbgamgam	346401
+MGPy8_ttgamgam	346402
+
+
+# ttgam background
+# ------------------------------------------------------------------------------
+
+MGPy8_ttgamma_noallhad       410082
+MGPy8_ttgamma_allhad         410087
+MGPy8_ttgamma_nonallhadronic 410389
+MGPy8_ttgamma_lowpt_noallhad 345867
+
+
+# tt
+# ------------------------------------------------------------------------------
+Sherpa_tt_sigleLeptonP   410250
+Sherpa_tt_dilepton       410252
+
+
+
+
+
+# Wgam background
+# ------------------------------------------------------------------------------
+
+Sherpa_enugammaPt10_35      301887
+Sherpa_enugammaPt35_70      301890
+Sherpa_enugammaPt70_140     301891
+Sherpa_enugammaPt140        301892
+
+Sherpa_munugammaPt10_35     301888
+Sherpa_munugammaPt35_70     301893
+Sherpa_munugammaPt70_140    301894
+Sherpa_munugammaPt140       301895
+
+Sherpa_nunugammaPt35_70     301908
+Sherpa_nunugammaPt70_140    301909
+Sherpa_nunugammaPt140       301910
+
+Sherpa_taunugammaPt10_35    301889
+Sherpa_taunugammaPt35_70    301896
+Sherpa_taunugammaPt70_140   301897
+Sherpa_taunugammaPt140      301898
+
+# Wgamgam background (old LO, superseded by the new LO samples)
+# ------------------------------------------------------------------------------
+
+Sherpa_enugammagammaPt17GeVmyy80GeV   343311
+Sherpa_munugammagammaPt17GeVmyy80GeV  343312
+Sherpa_taunugammagammaPt17GeVmyy80GeV 343313
+
+
+# Zgam background
+# ------------------------------------------------------------------------------
+
+Sherpa_eegammaPt10_35        301535
+Sherpa_eegammaPt35_70        301899
+Sherpa_eegammaPt70_140       301900
+Sherpa_eegammaPt140          301901
+
+Sherpa_mumugammaPt10_35      301536
+Sherpa_mumugammaPt35_70      301902
+Sherpa_mumugammaPt70_140     301903
+Sherpa_mumugammaPt140        301904
+
+Sherpa_tautaugammaPt10_35   304776
+Sherpa_tautaugammaPt35_70   301905
+Sherpa_tautaugammaPt70_140  301906
+Sherpa_tautaugammaPt140     301907
+
+# Zgamgam background (old LO, superseded by the new LO samples)
+# ------------------------------------------------------------------------------
+
+Sherpa_ZeegammagammaPt17GeVmyy80GeV     343314
+Sherpa_ZmumugammagammaPt17GeVmyy80GeV   343315
+Sherpa_ZtautaugammagammaPt17GeVmyy80GeV 343316
+Sherpa_ZnunugammagammaPt17GeVmyy80GeV   343317
+
+# Zgamma background fast
+# ------------------------------------------------------------------------------
+Sherpa_eegammaM175_250   343834
+Sherpa_eegammaM250_400   343835
+Sherpa_eegammaM400_650   343836
+Sherpa_eegammaM650_1000  343837
+Sherpa_eegammaM1000_1500 343838
+Sherpa_eegammaM1500_2000 343839
+Sherpa_eegammaM2000_2500 343840
+Sherpa_eegammaM2500_3000 343841
+Sherpa_eegammaM3000      343842
+
+Sherpa_mumugammaM1000_1500 343847
+Sherpa_mumugammaM1500_2000 343848
+Sherpa_mumugammaM175_250   343843
+Sherpa_mumugammaM2000_2500 343849
+Sherpa_mumugammaM2500_3000 343850
+Sherpa_mumugammaM250_400   343844
+Sherpa_mumugammaM3000      343851
+Sherpa_mumugammaM400_650   343845
+Sherpa_mumugammaM650_1000  343846
+
+# Vgamma Sherpa 2.2
+# ------------------------------------------------------------------------------
+
+Sherpa2_eegamma_pty_7_15        364500
+Sherpa2_eegamma_pty_15_35       364501
+Sherpa2_eegamma_pty_35_70       364502
+Sherpa2_eegamma_pty_70_140      364503
+Sherpa2_eegamma_pty_140         364504
+
+Sherpa2_mumugamma_pty_7_15      364505
+Sherpa2_mumugamma_pty_15_35     364506
+Sherpa2_mumugamma_pty_35_70     364507
+Sherpa2_mumugamma_pty_70_140    364508
+Sherpa2_mumugamma_pty_140       364509
+
+Sherpa2_tautaugamma_pty_7_15    364510
+Sherpa2_tautaugamma_pty_15_35   364511
+Sherpa2_tautaugamma_pty_35_70   364512
+Sherpa2_tautaugamma_pty_70_140  364513
+Sherpa2_tautaugamma_pty_140     364514
+
+Sherpa2_nunugamma_pty_35_70     364517
+Sherpa2_nunugamma_pty_70_140    364518
+Sherpa2_nunugamma_pty_140       364519
+
+
+Sherpa2_enugamma_pty_7_15       364521
+Sherpa2_enugamma_pty_15_35      364522
+Sherpa2_enugamma_pty_35_70      364523
+Sherpa2_enugamma_pty_70_140     364524
+Sherpa2_enugamma_pty_140        364525
+
+Sherpa2_munugamma_pty_7_15      364526
+Sherpa2_munugamma_pty_15_35     364527
+Sherpa2_munugamma_pty_35_70     364528
+Sherpa2_munugamma_pty_70_140    364529
+Sherpa2_munugamma_pty_140       364530
+
+Sherpa2_taunugamma_pty_7_15     364531
+Sherpa2_taunugamma_pty_15_35    364532
+Sherpa2_taunugamma_pty_35_70    364533
+Sherpa2_taunugamma_pty_70_140   364534
+Sherpa2_taunugamma_pty_140      364535
+
+# Vgammagamma Sherpa 2.2.4 (attem NLO, failed)
+# ------------------------------------------------------------------------------
+
+Sherpa224_eegammagamma_pty2_9_17		364881
+Sherpa224_eegammagamma_pty_17_myy_0_80		364882
+Sherpa224_eegammagamma_pty_17_myy_80		364883
+Sherpa224_mumugammagamma_pty2_9_17		364884
+Sherpa224_mumugammagamma_pty_17_myy_0_80	364885
+Sherpa224_mumugammagamma_pty_17_myy_80		364886
+Sherpa224_tautaugammagamma_pty2_9_17		364887
+Sherpa224_tautaugammagamma_pty_17_myy_0_80	364888
+Sherpa224_tautaugammagamma_pty_17_myy_80	364889
+Sherpa224_nunugammagamma_pty2_9_17		364890
+Sherpa224_nunugammagamma_pty_17_myy_0_80	364891
+Sherpa224_nunugammagamma_pty_17_myy_80		364892
+Sherpa224_enugammagamma_pty2_9_17		364893
+Sherpa224_enugammagamma_pty_17_myy_0_80		364894
+Sherpa224_enugammagamma_pty_17_myy_80		364895
+Sherpa224_munugammagamma_pty2_9_17		364896
+Sherpa224_munugammagamma_pty_17_myy_0_80	364897
+Sherpa224_munugammagamma_pty_17_myy_80		364898
+Sherpa224_taunugammagamma_pty2_9_17		364899
+Sherpa224_taunugammagamma_pty_17_myy_0_80	364900
+Sherpa224_taunugammagamma_pty_17_myy_80		364901
+
+
+# Vgammagamma Sherpa 2.2 (with non-effective filter, NLO, myy > 80 GeV pty > 17 GeV)
+# ----------------------------------------------------------------------------------
+Sherpa2_eegammagamma_pty_17_myy_80		364550
+Sherpa2_mumugammagamma_pty_17_myy80             364555
+Sherpa2_tautaugammagamma_pty_17_myy_80	        364560
+Sherpa2_nunugammagamma_pty_17_myy_80		364565
+Sherpa2_enugammagamma_pty_17_myy_80		364570
+Sherpa2_munugammagamma_pty_17_myy_80		364575
+Sherpa2_taunugammagamma_pty_17_myy_80	        364580
+
+
+# Vgammagamma Sherpa 2.2 (with non-effective filter (much larger), NLO, slice leading photon pT, pT>7 GeV)
+# ------------------------------------------------------------------------------
+Sherpa_222_eegammagamma_pty_35_70		 364552
+Sherpa_222_eegammagamma_pty_70_140		 364553
+Sherpa_222_eegammagamma_pty_140_E_CMS		 364554
+Sherpa_222_mumugammagamma_pty_35_70		 364557
+Sherpa_222_mumugammagamma_pty_70_140		 364558
+Sherpa_222_mumugammagamma_pty_140_E_CMS		 364559
+Sherpa_222_tautaugammagamma_pty_35_70		 364562
+Sherpa_222_tautaugammagamma_pty_70_140		 364563
+Sherpa_222_tautaugammagamma_pty_140_E_CMS	 364564
+Sherpa_222_nunugammagamma_pty_35_70		 364567
+Sherpa_222_nunugammagamma_pty_70_140		 364568
+Sherpa_222_nunugammagamma_pty_140_E_CMS		 364569
+Sherpa_222_enugammagamma_pty_35_70		 364572
+Sherpa_222_enugammagamma_pty_70_140		 364573
+Sherpa_222_enugammagamma_pty_140_E_CMS		 364574
+Sherpa_222_munugammagamma_pty_35_70		 364577
+Sherpa_222_munugammagamma_pty_70_140		 364578
+Sherpa_222_munugammagamma_pty_140_E_CMS		 364579
+Sherpa_222_taunugammagamma_pty_35_70		 364582
+Sherpa_222_taunugammagamma_pty_70_140		 364583
+Sherpa_222_taunugammagamma_pty_140_E_CMS	 364584
+
+
+# Vgammagamma Sherpa 2.2 LO
+# ------------------------------------------------------------------------------
+Sherpa_224_eegammagamma_LO_pty2_9_17		         364860
+Sherpa_224_eegammagamma_LO_pty_17_myy_0_80		 364861
+Sherpa_224_eegammagamma_LO_pty_17_myy_80		 364862
+Sherpa_224_mumugammagamma_LO_pty2_9_17		         364863
+Sherpa_224_mumugammagamma_LO_pty_17_myy_0_80		 364864
+Sherpa_224_mumugammagamma_LO_pty_17_myy_80		 364865
+Sherpa_224_tautaugammagamma_LO_pty2_9_17		 364866
+Sherpa_224_tautaugammagamma_LO_pty_17_myy_0_80		 364867
+Sherpa_224_tautaugammagamma_LO_pty_17_myy_80		 364868
+Sherpa_224_nunugammagamma_LO_pty2_9_17		         364869
+Sherpa_224_nunugammagamma_LO_pty_17_myy_0_80		 364870
+Sherpa_224_nunugammagamma_LO_pty_17_myy_80		 364871
+Sherpa_224_enugammagamma_LO_pty2_9_17		         364872
+Sherpa_224_enugammagamma_LO_pty_17_myy_0_80		 364873
+Sherpa_224_enugammagamma_LO_pty_17_myy_80		 364874
+Sherpa_224_munugammagamma_LO_pty2_9_17		         364875
+Sherpa_224_munugammagamma_LO_pty_17_myy_0_80		 364876
+Sherpa_224_munugammagamma_LO_pty_17_myy_80		 364877
+Sherpa_224_taunugammagamma_LO_pty2_9_17		         364878
+Sherpa_224_taunugammagamma_LO_pty_17_myy_0_80		 364879
+Sherpa_224_taunugammagamma_LO_pty_17_myy_80              364880
+
+# Vgammagamma Sherpa 2.2.10 NLO
+# ------------------------------------------------------------------------------
+Sh_2210_eegammagamma_myy_90_200              700248
+Sh_2210_mumugammagamma_myy_90_200              700249
+Sh_2210_tautaugammagamma_myy_90_200	              700250
+
+# WWyy 2 lepton
+# ------------------------------------------------------------------------------
+MGPy8_AU2_M8LO_N23LOME_lvlvyy_Myy80     345930
+MGPy8_AU2_M8LO_N23LOME_lvlvyy_Myy0_80   346024
+
+
+# Zee background
+# ------------------------------------------------------------------------------
+
+PowhegPy8_Zee                            361106
+
+Sherpa_Zee_MAXHTPTV0_70_CVetoBVeto       364114
+Sherpa_Zee_MAXHTPTV0_70_CFilterBVeto     364115
+Sherpa_Zee_MAXHTPTV0_70_BFilter          364116
+
+Sherpa_Zee_MAXHTPTV70_140_CVetoBVeto     364117
+Sherpa_Zee_MAXHTPTV70_140_CFilterBVeto   364118
+Sherpa_Zee_MAXHTPTV70_140_BFilter        364119
+
+Sherpa_Zee_MAXHTPTV140_280_CVetoBVeto    364120
+Sherpa_Zee_MAXHTPTV140_280_CFilterBVeto  364121
+Sherpa_Zee_MAXHTPTV140_280_BFilter       364122
+
+Sherpa_Zee_MAXHTPTV280_500_CVetoBVeto    364123
+Sherpa_Zee_MAXHTPTV280_500_CFilterBVeto  364124
+Sherpa_Zee_MAXHTPTV280_500_BFilter       364125
+
+Sherpa_Zee_MAXHTPTV500_1000              364126
+Sherpa_Zee_MAXHTPTV1000_E_CMS            364127
+
+
+# SH samples
+# ------------------------------------------------------------------------------
+Py8_XHS_X170_S030_HyySbb 800904
+Py8_XHS_X245_S090_HyySbb 800913
+Py8_XHS_X190_S015_HyySbb 800914
+Py8_XHS_X180_S050_HyySbb 800898
+Py8_XHS_X225_S030_HyySbb 800919
+Py8_XHS_X245_S050_HyySbb 800920
+Py8_XHS_X230_S090_HyySbb 800907
+Py8_XHS_X220_S090_HyySbb 800900
+Py8_XHS_X190_S050_HyySbb 800905
+Py8_XHS_X210_S015_HyySbb 800918
+Py8_XHS_X240_S110_HyySbb 800902
+Py8_XHS_X250_S100_HyySbb 800903
+Py8_XHS_X240_S100_HyySbb 800908
+Py8_XHS_X225_S050_HyySbb 800916
+Py8_XHS_X225_S070_HyySbb 800912
+Py8_XHS_X250_S110_HyySbb 800909
+Py8_XHS_X230_S100_HyySbb 800901
+Py8_XHS_X245_S070_HyySbb 800917
+Py8_XHS_X185_S030_HyySbb 800910
+Py8_XHS_X200_S070_HyySbb 800899
+Py8_XHS_X250_S015_HyySbb 800923
+Py8_XHS_X210_S070_HyySbb 800906
+Py8_XHS_X205_S030_HyySbb 800915
+Py8_XHS_X205_S050_HyySbb 800911
+Py8_XHS_X245_S030_HyySbb 800922
+Py8_XHS_X230_S015_HyySbb 800921
+
+# HGam interference samples
+# ------------------------------------------------------------------------------
+Sh_sig_1xSM_JO	700369
+Sh_sig_100xSM_JO	700370
+Sh_int_gg_1xSM_JO	700371
+Sh_int_qg_LO_1xSM_JO	700372
